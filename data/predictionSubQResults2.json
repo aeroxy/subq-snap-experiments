@@ -1,0 +1,820 @@
+{
+  "ranAt": "2026-10-11T16:14:57.656Z",
+  "model": "subq-snap-preview",
+  "summary": {
+    "n": 100,
+    "yes": 54,
+    "no": 46,
+    "accuracy": 0.47,
+    "majorityBaseline": 0.54,
+    "balancedAccuracy": 0.5060386473429952,
+    "auc": 0.5044283413848631,
+    "brier": 0.35171711426721813,
+    "brierBaseline": 0.2484,
+    "logLoss": 0.9630206676421715,
+    "meanScoreYes": 0.25330959515715085,
+    "meanScoreNo": 0.2601979306858519
+  },
+  "results": [
+    {
+      "id": "4178596",
+      "category": "Economy",
+      "question": "Will the 5-year Treasury yield dip below 4.20% in September?",
+      "outcome": false,
+      "resolvedAt": "2026-09-30 21:50:14+00",
+      "score": 0.4419124126434326
+    },
+    {
+      "id": "896056",
+      "category": "Finance",
+      "question": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 15:30:15+00",
+      "score": 0.29683417081832886
+    },
+    {
+      "id": "4965997",
+      "category": "Business",
+      "question": "Will Tesla deliver between 475000 and 500000 vehicles in Q3 2026",
+      "outcome": true,
+      "resolvedAt": "2026-10-02 15:05:11+00",
+      "score": 0.3981609642505646
+    },
+    {
+      "id": "4965996",
+      "category": "Business",
+      "question": "Will Tesla deliver between 450000 and 475000 vehicles in Q3 2026",
+      "outcome": false,
+      "resolvedAt": "2026-10-02 15:05:11+00",
+      "score": 0.36765244603157043
+    },
+    {
+      "id": "5408262",
+      "category": "Tech",
+      "question": "Will Mistral Large 4 debut at a score of at least 1490 by June 30, 2027?",
+      "outcome": false,
+      "resolvedAt": "2026-10-09 18:02:16+00",
+      "score": 0.4235057532787323
+    },
+    {
+      "id": "5291699",
+      "category": "AI",
+      "question": "Will SpaceXAI officially rename itself to SpaceXSI by October 15?",
+      "outcome": true,
+      "resolvedAt": "2026-10-11 06:22:17+00",
+      "score": 0.08006764948368073
+    },
+    {
+      "id": "637072",
+      "category": "Awards",
+      "question": "Will Navi Pillay win the Nobel Peace Prize in 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-10-09 12:16:40+00",
+      "score": 0.05633735656738281
+    },
+    {
+      "id": "637002",
+      "category": "Awards",
+      "question": "Will Donald Trump win the Nobel Peace Prize in 2026?",
+      "outcome": false,
+      "resolvedAt": "2026-10-09 12:07:40+00",
+      "score": 0.09685710072517395
+    },
+    {
+      "id": "4043319",
+      "category": "World",
+      "question": "Will Patrick Paquet win the next Vanier-Les Rivières Quebec National Assembly election?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 23:20:11+00",
+      "score": 0.3013606369495392
+    },
+    {
+      "id": "3372772",
+      "category": "Geopolitics",
+      "question": "Will Russia capture Shevchenko by October 31?",
+      "outcome": true,
+      "resolvedAt": "2026-10-08 06:34:25+00",
+      "score": 0.26817917823791504
+    },
+    {
+      "id": "3915108",
+      "category": "Politics",
+      "question": "Will Trump praise Warren Buffett in September?",
+      "outcome": false,
+      "resolvedAt": "2026-10-01 12:39:59+00",
+      "score": 0.09222349524497986
+    },
+    {
+      "id": "5047792",
+      "category": "Sports",
+      "question": "Will Shimizu S-Pulse win on 2026-10-11?",
+      "outcome": true,
+      "resolvedAt": "2026-10-11 08:19:31+00",
+      "score": 0.20172367990016937
+    },
+    {
+      "id": "4178765",
+      "category": "Economy",
+      "question": "Will the 30-year Treasury yield hit 5.50% in September?",
+      "outcome": true,
+      "resolvedAt": "2026-09-28 21:51:47+00",
+      "score": 0.18766187131404877
+    },
+    {
+      "id": "897019",
+      "category": "Tech",
+      "question": "Will Paramount close Warner Bros acquisition?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 16:35:09+00",
+      "score": 0.05238307639956474
+    },
+    {
+      "id": "897017",
+      "category": "Tech",
+      "question": "Will Netflix close Warner Bros acquisition?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 16:35:09+00",
+      "score": 0.2876943349838257
+    },
+    {
+      "id": "5371292",
+      "category": "Awards",
+      "question": "Nobel Peace Prize 2026 awarded to an individual?",
+      "outcome": true,
+      "resolvedAt": "2026-10-09 11:11:27+00",
+      "score": 0.45895490050315857
+    },
+    {
+      "id": "4043125",
+      "category": "World",
+      "question": "Will Gisèle Pouhe Njall win the next Rosemont Quebec National Assembly election?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 23:14:16+00",
+      "score": 0.218795508146286
+    },
+    {
+      "id": "4424722",
+      "category": "Geopolitics",
+      "question": "Will Iran target an Arab country by September 30, 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-10-08 00:43:25+00",
+      "score": 0.4687980115413666
+    },
+    {
+      "id": "4339183",
+      "category": "Politics",
+      "question": "LAPTOP listed on OKX within 30 days of TGE?",
+      "outcome": false,
+      "resolvedAt": "2026-10-10 06:02:03+00",
+      "score": 0.32438525557518005
+    },
+    {
+      "id": "5047795",
+      "category": "Sports",
+      "question": "Will Sanfrecce Hiroshima win on 2026-10-11?",
+      "outcome": true,
+      "resolvedAt": "2026-10-11 08:17:15+00",
+      "score": 0.20932474732398987
+    },
+    {
+      "id": "5047793",
+      "category": "Sports",
+      "question": "Will Tōkyō Verdy win on 2026-10-11?",
+      "outcome": false,
+      "resolvedAt": "2026-10-11 08:17:15+00",
+      "score": 0.16733384132385254
+    },
+    {
+      "id": "4913736",
+      "category": "Economy",
+      "question": "No change flips Hike 25 bps for October Fed by September 30?",
+      "outcome": true,
+      "resolvedAt": "2026-09-30 00:16:45+00",
+      "score": 0.2480728179216385
+    },
+    {
+      "id": "5141824",
+      "category": "Tech",
+      "question": "Will Jay Clayton be Trump's AI czar?",
+      "outcome": true,
+      "resolvedAt": "2026-10-05 04:28:41+00",
+      "score": 0.13825532793998718
+    },
+    {
+      "id": "5141823",
+      "category": "Tech",
+      "question": "Will Trump not announce his AI czar pick by December 31, 2026?",
+      "outcome": false,
+      "resolvedAt": "2026-10-05 03:54:13+00",
+      "score": 0.3067066967487335
+    },
+    {
+      "id": "2047158",
+      "category": "Awards",
+      "question": "Will Olivia Miles win the 2026 WNBA Rookie of the Year award?",
+      "outcome": true,
+      "resolvedAt": "2026-09-28 21:38:45+00",
+      "score": 0.19736450910568237
+    },
+    {
+      "id": "2047166",
+      "category": "Awards",
+      "question": "Will Angela Dugalic win the 2026 WNBA Rookie of the Year award?",
+      "outcome": false,
+      "resolvedAt": "2026-09-28 21:38:45+00",
+      "score": 0.17137718200683594
+    },
+    {
+      "id": "5211891",
+      "category": "World",
+      "question": "Will Luis Inácio (Lula) da Silva win between 44% and 47% of the valid vote in the first round of the 2026 Brazilian presidential election?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 15:36:41+00",
+      "score": 0.2458045780658722
+    },
+    {
+      "id": "5211890",
+      "category": "World",
+      "question": "Will Luis Inácio (Lula) da Silva win less than 44% of the valid vote in the first round of the 2026 Brazilian presidential election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 15:36:41+00",
+      "score": 0.4524409770965576
+    },
+    {
+      "id": "4376691",
+      "category": "Geopolitics",
+      "question": "Will Iran target Iraq by September 30, 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-10-08 00:31:28+00",
+      "score": 0.13184954226016998
+    },
+    {
+      "id": "3566309",
+      "category": "Politics",
+      "question": "Will Katie Zacharia be the next White House Press Secretary?",
+      "outcome": true,
+      "resolvedAt": "2026-10-09 21:53:16+00",
+      "score": 0.10328293591737747
+    },
+    {
+      "id": "3566306",
+      "category": "Politics",
+      "question": "Will Scott Jennings be the next White House Press Secretary?",
+      "outcome": false,
+      "resolvedAt": "2026-10-09 21:53:46+00",
+      "score": 0.12575732171535492
+    },
+    {
+      "id": "5047789",
+      "category": "Sports",
+      "question": "Will V-Varen Nagasaki win on 2026-10-11?",
+      "outcome": false,
+      "resolvedAt": "2026-10-11 07:22:00+00",
+      "score": 0.18305633962154388
+    },
+    {
+      "id": "5141855",
+      "category": "Tech",
+      "question": "Will Trump name an AI czar by October 4, 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-10-05 03:50:13+00",
+      "score": 0.23360013961791992
+    },
+    {
+      "id": "4710038",
+      "category": "Awards",
+      "question": "Will “The Fate of Ophelia” by Taylor Swift win Video of the Year at the 2026 MTV Video Music Awards?",
+      "outcome": true,
+      "resolvedAt": "2026-09-28 03:53:35+00",
+      "score": 0.22411778569221497
+    },
+    {
+      "id": "4710033",
+      "category": "Awards",
+      "question": "Will “Hate That I Made You Love Me” by Ariana Grande win Video of the Year at the 2026 MTV Video Music Awards?",
+      "outcome": false,
+      "resolvedAt": "2026-09-28 03:53:35+00",
+      "score": 0.20015904307365417
+    },
+    {
+      "id": "3929997",
+      "category": "World",
+      "question": "Will PLQ finish in second place in the Quebec general election?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 15:16:29+00",
+      "score": 0.2682892084121704
+    },
+    {
+      "id": "3929995",
+      "category": "World",
+      "question": "Will CAQ finish in second place in the Quebec general election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 06:47:40+00",
+      "score": 0.2738557457923889
+    },
+    {
+      "id": "4187908",
+      "category": "Geopolitics",
+      "question": "0 ships transit Hormuz on any date by October 31?",
+      "outcome": true,
+      "resolvedAt": "2026-10-07 00:56:51.406214+00",
+      "score": 0.08035415410995483
+    },
+    {
+      "id": "3903043",
+      "category": "Geopolitics",
+      "question": "0 ships transit Hormuz on any date by September 30?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 16:49:26+00",
+      "score": 0.07908701151609421
+    },
+    {
+      "id": "4585607",
+      "category": "Politics",
+      "question": "Next White House Press Secretary announced by October 14, 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-10-09 21:50:14+00",
+      "score": 0.1151411384344101
+    },
+    {
+      "id": "3701625",
+      "category": "Politics",
+      "question": "Next White House Press Secretary announced by September 30, 2026?",
+      "outcome": false,
+      "resolvedAt": "2026-10-01 06:28:59+00",
+      "score": 0.18528707325458527
+    },
+    {
+      "id": "5039867",
+      "category": "Sports",
+      "question": "Will CF América vs. CF Monterrey end in a draw?",
+      "outcome": true,
+      "resolvedAt": "2026-10-11 07:19:17+00",
+      "score": 0.24283580482006073
+    },
+    {
+      "id": "5039865",
+      "category": "Sports",
+      "question": "Will CF América win on 2026-10-10?",
+      "outcome": false,
+      "resolvedAt": "2026-10-11 07:19:46+00",
+      "score": 0.3135537803173065
+    },
+    {
+      "id": "5139531",
+      "category": "Tech",
+      "question": "Will the next GPT Sol model (6.1+) debut at a score of at least 1440 by June 30, 2027?",
+      "outcome": true,
+      "resolvedAt": "2026-10-03 18:06:29+00",
+      "score": 0.5082101225852966
+    },
+    {
+      "id": "5139534",
+      "category": "Tech",
+      "question": "Will the next GPT Sol model (6.1+) debut at a score of at least 1480 by June 30, 2027?",
+      "outcome": false,
+      "resolvedAt": "2026-10-03 18:06:32+00",
+      "score": 0.4219662845134735
+    },
+    {
+      "id": "4710069",
+      "category": "Awards",
+      "question": "Will Madonna win Artist of the Year at the 2026 MTV Video Music Awards?",
+      "outcome": true,
+      "resolvedAt": "2026-09-28 02:58:50+00",
+      "score": 0.13454198837280273
+    },
+    {
+      "id": "4710066",
+      "category": "Awards",
+      "question": "Will Ariana Grande win Artist of the Year at the 2026 MTV Video Music Awards?",
+      "outcome": false,
+      "resolvedAt": "2026-09-28 02:58:51+00",
+      "score": 0.22289815545082092
+    },
+    {
+      "id": "789407",
+      "category": "World",
+      "question": "Will Parti Québécois win the most seats in the 2026 Quebec general election?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 05:03:40+00",
+      "score": 0.1734185814857483
+    },
+    {
+      "id": "789410",
+      "category": "World",
+      "question": "Will Parti conservateur du Québec win the most seats in the 2026 Quebec general election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 05:10:09+00",
+      "score": 0.09857149422168732
+    },
+    {
+      "id": "4189937",
+      "category": "Geopolitics",
+      "question": "Putin meets with Iranian officials by December 31?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 18:18:56+00",
+      "score": 0.5589131712913513
+    },
+    {
+      "id": "4571627",
+      "category": "Politics",
+      "question": "Will the Labour candidate win the Holborn and St Pancras by-election by a margin of 15% or more?",
+      "outcome": false,
+      "resolvedAt": "2026-10-09 08:34:12+00",
+      "score": 0.41743263602256775
+    },
+    {
+      "id": "5039857",
+      "category": "Sports",
+      "question": "Will Atlas FC vs. CD Guadalajara end in a draw?",
+      "outcome": true,
+      "resolvedAt": "2026-10-11 07:04:32+00",
+      "score": 0.22154666483402252
+    },
+    {
+      "id": "5039859",
+      "category": "Sports",
+      "question": "Will CD Guadalajara win on 2026-10-10?",
+      "outcome": false,
+      "resolvedAt": "2026-10-11 07:04:14+00",
+      "score": 0.21703431010246277
+    },
+    {
+      "id": "3940735",
+      "category": "Tech",
+      "question": "Will the next Sonnet model debut at a score of at least 1470 by December 31, 2026?",
+      "outcome": false,
+      "resolvedAt": "2026-10-03 18:06:29+00",
+      "score": 0.42458459734916687
+    },
+    {
+      "id": "1366564",
+      "category": "World",
+      "question": "Will Partido Liberal (PL) hold the most seats as a result of the next Brazilian Senate election?",
+      "outcome": true,
+      "resolvedAt": "2026-10-05 05:19:10+00",
+      "score": 0.45856842398643494
+    },
+    {
+      "id": "3940892",
+      "category": "Geopolitics",
+      "question": "Will there be between 0 and 5 average daily transits of the Strait of Hormuz on September 30?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 15:50:41+00",
+      "score": 0.20495924353599548
+    },
+    {
+      "id": "3940893",
+      "category": "Geopolitics",
+      "question": "Will there be between 5 and 10 average daily transits of the Strait of Hormuz on September 30?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 15:50:41+00",
+      "score": 0.45669299364089966
+    },
+    {
+      "id": "4061869",
+      "category": "Politics",
+      "question": "Will Sagal Abdi-Wali win the Holborn and St Pancras by-election?",
+      "outcome": true,
+      "resolvedAt": "2026-10-09 04:21:12+00",
+      "score": 0.1565489023923874
+    },
+    {
+      "id": "4061876",
+      "category": "Politics",
+      "question": "Will Zack Polanski win the Holborn and St Pancras by-election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-09 04:19:16+00",
+      "score": 0.18814867734909058
+    },
+    {
+      "id": "5432088",
+      "category": "Sports",
+      "question": "Will CD Mineros de Zacatecas vs. Cancun FC end in a draw?",
+      "outcome": true,
+      "resolvedAt": "2026-10-11 06:21:45+00",
+      "score": 0.21461698412895203
+    },
+    {
+      "id": "4544947",
+      "category": "Tech",
+      "question": "Will OpenAI resume US ChatGPT Pro signups by September 30, 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-09-30 21:02:24+00",
+      "score": 0.2105422466993332
+    },
+    {
+      "id": "601922",
+      "category": "World",
+      "question": "Will Luiz Inácio Lula da Silva qualify for Brazil's presidential runoff?",
+      "outcome": true,
+      "resolvedAt": "2026-10-05 03:33:56+00",
+      "score": 0.2601819634437561
+    },
+    {
+      "id": "601921",
+      "category": "World",
+      "question": "Will Tarcisio de Frietas qualify for Brazil's presidential runoff?",
+      "outcome": false,
+      "resolvedAt": "2026-10-05 03:33:56+00",
+      "score": 0.09920459985733032
+    },
+    {
+      "id": "3940887",
+      "category": "Geopolitics",
+      "question": "Will at least 10 ships transit the Strait of Hormuz on any day by September 30, 2026?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 15:49:59+00",
+      "score": 0.6934869289398193
+    },
+    {
+      "id": "5430441",
+      "category": "Politics",
+      "question": "Will Trump say \"AI\" or \"Artificial Intelligence\" during his Science Summit remarks?",
+      "outcome": true,
+      "resolvedAt": "2026-10-08 21:16:30+00",
+      "score": 0.7305845022201538
+    },
+    {
+      "id": "5039829",
+      "category": "Sports",
+      "question": "Will Club Tijuana win on 2026-10-10?",
+      "outcome": false,
+      "resolvedAt": "2026-10-11 06:16:42+00",
+      "score": 0.2966116666793823
+    },
+    {
+      "id": "4769494",
+      "category": "Tech",
+      "question": "Trump renames AI by September 30?",
+      "outcome": true,
+      "resolvedAt": "2026-09-29 23:22:35+00",
+      "score": 0.1821964979171753
+    },
+    {
+      "id": "601920",
+      "category": "World",
+      "question": "Will any presidential candidate win outright in the first round of the Brazil election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-05 02:48:56+00",
+      "score": 0.09437796473503113
+    },
+    {
+      "id": "2774057",
+      "category": "Geopolitics",
+      "question": "Strait of Hormuz traffic returns to normal by September 30?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 15:49:59+00",
+      "score": 0.6166279315948486
+    },
+    {
+      "id": "3662130",
+      "category": "Politics",
+      "question": "Will Marcel Van Hattem win the most votes in the 2026 Rio Grande do Sul Senate election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-08 04:52:47+00",
+      "score": 0.2349439561367035
+    },
+    {
+      "id": "5039840",
+      "category": "Sports",
+      "question": "Will Querétaro FC win on 2026-10-10?",
+      "outcome": true,
+      "resolvedAt": "2026-10-11 05:41:29+00",
+      "score": 0.28476282954216003
+    },
+    {
+      "id": "4890076",
+      "category": "World",
+      "question": "Israel Election: Sami Abu Shehadeh Effectively Banned?",
+      "outcome": false,
+      "resolvedAt": "2026-10-02 13:42:27+00",
+      "score": 0.34153059124946594
+    },
+    {
+      "id": "3915283",
+      "category": "Geopolitics",
+      "question": "Will there be between 25 and 29 average daily transits of the Bab el-Mandeb Strait on September 30?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 15:29:44+00",
+      "score": 0.3967095911502838
+    },
+    {
+      "id": "3915282",
+      "category": "Geopolitics",
+      "question": "Will there be fewer than 25 average daily transits of the Bab el-Mandeb Strait on September 30?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 15:30:15+00",
+      "score": 0.4757240414619446
+    },
+    {
+      "id": "3960600",
+      "category": "Politics",
+      "question": "Will Justina Pula be the next President of Kosovo?",
+      "outcome": true,
+      "resolvedAt": "2026-10-07 10:04:27+00",
+      "score": 0.1766028106212616
+    },
+    {
+      "id": "3960602",
+      "category": "Politics",
+      "question": "Will Bekim Sejdiu be the next President of Kosovo?",
+      "outcome": false,
+      "resolvedAt": "2026-10-07 10:04:42+00",
+      "score": 0.1918472945690155
+    },
+    {
+      "id": "1633606",
+      "category": "World",
+      "question": "Will China invade Taiwan by September 30, 2026?",
+      "outcome": false,
+      "resolvedAt": "2026-10-01 06:03:59+00",
+      "score": 0.03854839503765106
+    },
+    {
+      "id": "4619164",
+      "category": "Geopolitics",
+      "question": "Saudi Oil Pipeline (East-West) restarts by October 31?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 12:33:28+00",
+      "score": 0.26026639342308044
+    },
+    {
+      "id": "4487273",
+      "category": "Geopolitics",
+      "question": "Saudi Oil Pipeline (East-West) restarts by September 30?",
+      "outcome": false,
+      "resolvedAt": "2026-10-01 06:03:44+00",
+      "score": 0.2397530972957611
+    },
+    {
+      "id": "5288162",
+      "category": "Politics",
+      "question": "Will Trump say \"Corn\" during his Midterm Rally in Nebraska?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 04:46:31.99047+00",
+      "score": 0.48057031631469727
+    },
+    {
+      "id": "4714589",
+      "category": "World",
+      "question": "EU country blames Russia for new sabotage attack by October 31?",
+      "outcome": true,
+      "resolvedAt": "2026-09-29 10:06:15+00",
+      "score": 0.23863714933395386
+    },
+    {
+      "id": "3914777",
+      "category": "Geopolitics",
+      "question": "Will Trump speak to Masoud Pezeshkian in September?",
+      "outcome": false,
+      "resolvedAt": "2026-10-04 06:00:58+00",
+      "score": 0.10789597034454346
+    },
+    {
+      "id": "3741107",
+      "category": "Politics",
+      "question": "Will MLSTP win the most seats in the 2026 São Tomé and Príncipe parliamentary election?",
+      "outcome": true,
+      "resolvedAt": "2026-10-07 03:52:41+00",
+      "score": 0.3115741014480591
+    },
+    {
+      "id": "4571194",
+      "category": "Geopolitics",
+      "question": "Will Trump meet with Sam Altman in September 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-10-01 18:10:46.215312+00",
+      "score": 0.2275085598230362
+    },
+    {
+      "id": "3914605",
+      "category": "Geopolitics",
+      "question": "Will Trump meet with Vladimir Putin in September 2026?",
+      "outcome": false,
+      "resolvedAt": "2026-10-01 06:03:47+00",
+      "score": 0.18270674347877502
+    },
+    {
+      "id": "5206977",
+      "category": "Politics",
+      "question": "Spain snap election called in 2026? (copy)",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 17:35:02.114154+00",
+      "score": 0.2523079514503479
+    },
+    {
+      "id": "4959800",
+      "category": "Geopolitics",
+      "question": "Pakistan military action against Afghanistan by October 31, 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-10-01 05:54:24+00",
+      "score": 0.3160475790500641
+    },
+    {
+      "id": "2487510",
+      "category": "Politics",
+      "question": "Will Sergio Moro win the Governor of Paraná election?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 14:41:42+00",
+      "score": 0.11941947042942047
+    },
+    {
+      "id": "2487521",
+      "category": "Politics",
+      "question": "Will Sandro Alex win the Governor of Paraná election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 14:41:42+00",
+      "score": 0.11607329547405243
+    },
+    {
+      "id": "3372745",
+      "category": "Geopolitics",
+      "question": "Will Russia enter Mykolaivka by September 30, 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-10-01 21:55:26+00",
+      "score": 0.18858841061592102
+    },
+    {
+      "id": "3660660",
+      "category": "Politics",
+      "question": "Will Capitão Alberto Neto win the second-most votes in the 2026 Amazonas Senate election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-05 23:06:46+00",
+      "score": 0.3615582585334778
+    },
+    {
+      "id": "4178272",
+      "category": "Geopolitics",
+      "question": "Israel military action against Lebanon on September 29?",
+      "outcome": true,
+      "resolvedAt": "2026-09-30 15:32:35+00",
+      "score": 0.2747291624546051
+    },
+    {
+      "id": "2087972",
+      "category": "Politics",
+      "question": "Will Partido Liberal (PL) hold the most seats in the Brazilian Chamber of Deputies after the 2026 election?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 01:38:10+00",
+      "score": 0.33944499492645264
+    },
+    {
+      "id": "2087973",
+      "category": "Politics",
+      "question": "Will Federação União Progressista (UPB) hold the most seats in the Brazilian Chamber of Deputies after the 2026 election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 01:37:41+00",
+      "score": 0.20420503616333008
+    },
+    {
+      "id": "3145330",
+      "category": "Geopolitics",
+      "question": "Will Iran target Ukraine by September 30, 2026?",
+      "outcome": false,
+      "resolvedAt": "2026-10-01 09:25:26+00",
+      "score": 0.08310744911432266
+    },
+    {
+      "id": "664045",
+      "category": "Politics",
+      "question": "Will Mamdani freeze NYC rents before 2027?",
+      "outcome": true,
+      "resolvedAt": "2026-10-06 01:15:00.367286+00",
+      "score": 0.16056235134601593
+    },
+    {
+      "id": "3764798",
+      "category": "Geopolitics",
+      "question": "Will there be exactly 2 North Korea tests in September 2026?",
+      "outcome": true,
+      "resolvedAt": "2026-10-01 08:35:41+00",
+      "score": 0.208607479929924
+    },
+    {
+      "id": "3661062",
+      "category": "Politics",
+      "question": "Will Sergio Meneguelli win the second-most votes in the 2026 Espírito Santo Senate election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 00:38:14+00",
+      "score": 0.21363838016986847
+    },
+    {
+      "id": "2696748",
+      "category": "Geopolitics",
+      "question": "US announces withdrawal from Al Udeid Air Base by Sep 30?",
+      "outcome": false,
+      "resolvedAt": "2026-10-01 07:53:27+00",
+      "score": 0.0967542827129364
+    },
+    {
+      "id": "3662329",
+      "category": "Politics",
+      "question": "Will Delegado Éder Mauro win the second-most votes in the 2026 Pará Senate election?",
+      "outcome": false,
+      "resolvedAt": "2026-10-06 00:33:41+00",
+      "score": 0.3403339684009552
+    }
+  ]
+}
